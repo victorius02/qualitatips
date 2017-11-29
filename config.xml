@@ -10,18 +10,18 @@
     
     <preference name="orientation"                value="portrait" />       <!-- all: default means both landscape and portrait are enabled -->
     
-    <gap:plugin name="cordova-plugin-device" source="npm"/>
-    <gap:plugin name="cordova-plugin-camera" source="npm" />
-    <gap:plugin name="cordova-plugin-media-capture" source="npm"/>
-    <gap:plugin name="cordova-plugin-file" source="npm"/>
-    <gap:plugin name="cordova-plugin-file-transfer" source="npm"/>
-    <gap:plugin name="cordova-plugin-splashscreen" source="npm"/>
-    <gap:plugin name="cordova-plugin-contacts" source="npm"/>
-    <gap:plugin name="cordova-plugin-geolocation" source="npm"/>
-    <gap:plugin name="cordova-plugin-inappbrowser" source="npm"/>
-    <gap:plugin name="cordova-plugin-dialogs" source="npm"/>
-    <gap:plugin name="cordova-plugin-vibration" source="npm"/>
-    <gap:plugin name="cordova-plugin-network-information" source="npm"/>
+    <gap:plugin name="cordova-plugin-device" spec="1.0.1" source="npm"/>
+    <gap:plugin name="cordova-plugin-camera" spec="1.0.1" source="npm" />
+    <gap:plugin name="cordova-plugin-media-capture" spec="1.0.1" source="npm"/>
+    <gap:plugin name="cordova-plugin-file" spec="1.0.1" source="npm"/>
+    <gap:plugin name="cordova-plugin-file-transfer" spec="1.0.1" source="npm"/>
+    <gap:plugin name="cordova-plugin-splashscreen" spec="1.0.1" source="npm"/>
+    <gap:plugin name="cordova-plugin-contacts" spec="1.0.1" source="npm"/>
+    <gap:plugin name="cordova-plugin-geolocation" spec="1.0.1" source="npm"/>
+    <gap:plugin name="cordova-plugin-inappbrowser" spec="1.0.1" source="npm"/>
+    <gap:plugin name="cordova-plugin-dialogs" spec="1.0.1" source="npm"/>
+    <gap:plugin name="cordova-plugin-vibration" spec="1.0.1" source="npm"/>
+    <gap:plugin name="cordova-plugin-network-information" spec="1.0.1" source="npm"/>
 
 	<icon src="icon.png" />
 	
