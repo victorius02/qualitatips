@@ -5,7 +5,7 @@
     <description>Um app de analítica</description>
     <author email="vitorr.ribeiro@hotmail.com" href="http://www.bemboho.000webhostapp.com">Vitor Silveira</author>
 
-    <preference name="phonegap-version" value="3.3.0" />
+    <preference name="phonegap-version" value="1.0.0" />
     <feature name="http://api.phonegap.com/1.0/device" />
     
     <preference name="orientation"                value="portrait" />       <!-- all: default means both landscape and portrait are enabled -->
