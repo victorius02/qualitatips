@@ -11,7 +11,6 @@
     <preference name="orientation"                value="portrait" />       <!-- all: default means both landscape and portrait are enabled -->
     
     <gap:plugin name="cordova-plugin-device" spec="1.0.1" source="npm"/>
-    <gap:plugin name="cordova-plugin-camera" spec="1.0.1" source="npm" />
     <gap:plugin name="cordova-plugin-media-capture" spec="1.0.1" source="npm"/>
     <gap:plugin name="cordova-plugin-file" spec="1.0.1" source="npm"/>
     <gap:plugin name="cordova-plugin-file-transfer" spec="1.0.1" source="npm"/>
