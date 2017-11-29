@@ -22,7 +22,6 @@
     <gap:plugin name="cordova-plugin-dialogs" source="npm"/>
     <gap:plugin name="cordova-plugin-vibration" source="npm"/>
     <gap:plugin name="cordova-plugin-network-information" source="npm"/>
-    <gap:plugin name="cordova-plugin-localnotification" source="npm"/>
 
 	<icon src="icon.png" />
 	
