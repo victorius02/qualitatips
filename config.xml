@@ -5,12 +5,24 @@
     <description>Um app de analítica</description>
     <author email="vitorr.ribeiro@hotmail.com" href="http://www.bemboho.000webhostapp.com">Vitor Silveira</author>
 
-    <preference name="phonegap-version" value="cli-6.4.0" />
+    <preference name="phonegap-version" value="cli-6.5.0" />
     <feature name="http://api.phonegap.com/1.0/device" />
     
     <preference name="orientation"                value="portrait" />       <!-- all: default means both landscape and portrait are enabled -->
     
-
+    <gap:plugin name="com.phonegap.plugins.device" />
+    <gap:plugin name="com.phonegap.plugins.camera" />
+    <gap:plugin name="com.phonegap.plugins.media-capture" />
+    <gap:plugin name="com.phonegap.plugins.file" />
+    <gap:plugin name="com.phonegap.plugins.file-transfer" />
+    <gap:plugin name="com.phonegap.plugins.splashscreen" />
+    <gap:plugin name="com.phonegap.plugins.contacts" />
+    <gap:plugin name="com.phonegap.plugins.geolocation" />
+    <gap:plugin name="com.phonegap.plugins.inappbrowser" />
+    <gap:plugin name="com.phonegap.plugins.dialogs" />
+    <gap:plugin name="com.phonegap.plugins.vibration" />
+    <gap:plugin name="com.phonegap.plugins.network-information" />
+    <gap:plugin name="com.phonegap.plugins.localnotification" />
 
 	<icon src="icon.png" />
 	
